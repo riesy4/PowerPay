@@ -31,7 +31,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="24dp"
-            android:text="Name: Nurul Ariesya Najwa binti Mohd Nizam\nStudent ID: 2024977903\nCourse: ICT602 - Mobile Technology"
+            android:text="Name: Nurul Ariesya Najwa binti Mohd Nizam\nStudent \nCourse: ICT602 - Mobile Technology"
             android:textColor="#880E4F"
             android:textSize="16sp" />
 
